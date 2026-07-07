@@ -45,5 +45,5 @@ This project demonstrates an end-to-end Sales Analysis using Excel, SQL, and Mic
 - README.md
 
 ## Author
-**Sri**
+**Nithya Sri Revathi C**
 Data Analytics Intern
